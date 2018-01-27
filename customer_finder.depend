@@ -1,0 +1,284 @@
+# depslib dependency file v1.0
+1517054458 source:s:\google drive\documents\customerfinder\customer_finder\main.cpp
+	"libs.hpp"
+
+1516882551 s:\google drive\documents\customerfinder\customer_finder\rapidjson\document.h
+	"reader.h"
+	"internal/meta.h"
+	"internal/strfunc.h"
+	"memorystream.h"
+	"encodedstream.h"
+	<new>
+	<limits>
+	<iterator>
+	<utility>
+
+1516882551 s:\google drive\documents\customerfinder\customer_finder\rapidjson\reader.h
+	"allocators.h"
+	"stream.h"
+	"encodedstream.h"
+	"internal/meta.h"
+	"internal/stack.h"
+	"internal/strtod.h"
+	<limits>
+	<intrin.h>
+	<nmmintrin.h>
+	<emmintrin.h>
+	<arm_neon.h>
+	<stdexcept>
+	"rapidjson/error/error.h"
+	"rapidjson/reader.h"
+	"error/error.h"
+
+1516882551 s:\google drive\documents\customerfinder\customer_finder\rapidjson\allocators.h
+	"rapidjson.h"
+
+1516882551 s:\google drive\documents\customerfinder\customer_finder\rapidjson\rapidjson.h
+	<cstdlib>
+	<cstring>
+	"rapidjson/..."
+	<string>
+	"msinttypes/stdint.h"
+	"msinttypes/inttypes.h"
+	<stdint.h>
+	<inttypes.h>
+	<endian.h>
+	"rapidjson/..."
+	<cassert>
+
+1516882551 s:\google drive\documents\customerfinder\customer_finder\rapidjson\msinttypes\stdint.h
+	<stdint.h>
+	<limits.h>
+	<wchar.h>
+
+1516882551 s:\google drive\documents\customerfinder\customer_finder\rapidjson\msinttypes\inttypes.h
+	"stdint.h"
+	<inttypes.h>
+
+1516882551 s:\google drive\documents\customerfinder\customer_finder\rapidjson\stream.h
+	"rapidjson.h"
+	"encodings.h"
+
+1516882551 s:\google drive\documents\customerfinder\customer_finder\rapidjson\encodings.h
+	"rapidjson.h"
+
+1516882551 s:\google drive\documents\customerfinder\customer_finder\rapidjson\encodedstream.h
+	"stream.h"
+	"memorystream.h"
+
+1516882551 s:\google drive\documents\customerfinder\customer_finder\rapidjson\memorystream.h
+	"stream.h"
+
+1516882551 s:\google drive\documents\customerfinder\customer_finder\rapidjson\internal\meta.h
+	"../rapidjson.h"
+	<type_traits>
+
+1516882551 s:\google drive\documents\customerfinder\customer_finder\rapidjson\internal\stack.h
+	"../allocators.h"
+	"swap.h"
+
+1516882551 s:\google drive\documents\customerfinder\customer_finder\rapidjson\internal\swap.h
+	"../rapidjson.h"
+
+1516882551 s:\google drive\documents\customerfinder\customer_finder\rapidjson\internal\strtod.h
+	"ieee754.h"
+	"biginteger.h"
+	"diyfp.h"
+	"pow10.h"
+
+1516882551 s:\google drive\documents\customerfinder\customer_finder\rapidjson\internal\ieee754.h
+	"../rapidjson.h"
+
+1516882551 s:\google drive\documents\customerfinder\customer_finder\rapidjson\internal\biginteger.h
+	"../rapidjson.h"
+	<intrin.h>
+
+1516882551 s:\google drive\documents\customerfinder\customer_finder\rapidjson\internal\diyfp.h
+	"../rapidjson.h"
+	<intrin.h>
+
+1516882551 s:\google drive\documents\customerfinder\customer_finder\rapidjson\internal\pow10.h
+	"../rapidjson.h"
+
+1516882551 s:\google drive\documents\customerfinder\customer_finder\rapidjson\error\error.h
+	"../rapidjson.h"
+
+1516882551 s:\google drive\documents\customerfinder\customer_finder\rapidjson\internal\strfunc.h
+	"../stream.h"
+	<cwchar>
+
+1516882551 s:\google drive\documents\customerfinder\customer_finder\rapidjson\writer.h
+	"stream.h"
+	"internal/meta.h"
+	"internal/stack.h"
+	"internal/strfunc.h"
+	"internal/dtoa.h"
+	"internal/itoa.h"
+	"stringbuffer.h"
+	<new>
+	<intrin.h>
+	<nmmintrin.h>
+	<emmintrin.h>
+	<arm_neon.h>
+
+1516882551 s:\google drive\documents\customerfinder\customer_finder\rapidjson\internal\dtoa.h
+	"itoa.h"
+	"diyfp.h"
+	"ieee754.h"
+
+1516882551 s:\google drive\documents\customerfinder\customer_finder\rapidjson\internal\itoa.h
+	"../rapidjson.h"
+
+1516882551 s:\google drive\documents\customerfinder\customer_finder\rapidjson\stringbuffer.h
+	"stream.h"
+	"internal/stack.h"
+	<utility>
+	"internal/stack.h"
+
+1516907680 s:\google drive\documents\customerfinder\customer_finder\json\json.hpp
+	<algorithm>
+	<cassert>
+	<ciso646>
+	<cstddef>
+	<functional>
+	<initializer_list>
+	<iosfwd>
+	<iterator>
+	<numeric>
+	<string>
+	<utility>
+	<cstdint>
+	<map>
+	<memory>
+	<string>
+	<vector>
+	<ciso646>
+	<cstddef>
+	<limits>
+	<type_traits>
+	<utility>
+	<exception>
+	<stdexcept>
+	<string>
+	<array>
+	<ciso646>
+	<cstddef>
+	<cstdint>
+	<algorithm>
+	<array>
+	<ciso646>
+	<forward_list>
+	<iterator>
+	<string>
+	<tuple>
+	<type_traits>
+	<utility>
+	<valarray>
+	<ciso646>
+	<iterator>
+	<tuple>
+	<type_traits>
+	<utility>
+	<valarray>
+	<vector>
+	<algorithm>
+	<array>
+	<cassert>
+	<cstddef>
+	<cstring>
+	<ios>
+	<istream>
+	<iterator>
+	<memory>
+	<numeric>
+	<string>
+	<type_traits>
+	<utility>
+	<clocale>
+	<cstddef>
+	<cstdlib>
+	<initializer_list>
+	<ios>
+	<iomanip>
+	<sstream>
+	<string>
+	<vector>
+	<cassert>
+	<cmath>
+	<cstdint>
+	<functional>
+	<string>
+	<utility>
+	<cstddef>
+	<limits>
+	<ciso646>
+	<iterator>
+	<type_traits>
+	<cstddef>
+	<string>
+	<cstddef>
+	<iterator>
+	<utility>
+	<algorithm>
+	<cstddef>
+	<ios>
+	<iterator>
+	<memory>
+	<ostream>
+	<string>
+	<vector>
+	<algorithm>
+	<array>
+	<cassert>
+	<cmath>
+	<cstddef>
+	<cstdint>
+	<cstring>
+	<iomanip>
+	<ios>
+	<iterator>
+	<limits>
+	<sstream>
+	<string>
+	<utility>
+	<algorithm>
+	<array>
+	<cstdint>
+	<cstring>
+	<limits>
+	<algorithm>
+	<array>
+	<cassert>
+	<ciso646>
+	<clocale>
+	<cmath>
+	<cstddef>
+	<cstdint>
+	<cstdio>
+	<iterator>
+	<limits>
+	<string>
+	<type_traits>
+	<cassert>
+	<ciso646>
+	<cmath>
+	<cstdint>
+	<cstring>
+	<initializer_list>
+	<utility>
+	<utility>
+
+1517049765 s:\google drive\documents\customerfinder\customer_finder\libs.hpp
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	"pos.hpp"
+
+1517049914 s:\google drive\documents\customerfinder\customer_finder\pos.hpp
+	"json/json.hpp"
+
+1517049965 source:s:\google drive\documents\customerfinder\customer_finder\pos.cpp
+	"libs.hpp"
+
